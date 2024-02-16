@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Todo365</string>
+    <string name="submit">Add todos</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="update">Update</string>
+</resources>
